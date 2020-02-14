@@ -113,7 +113,9 @@ a {
       padding: 7em 0; } }
   .site-section.site-section-sm {
     padding: 4em 0; }
-
+.atif-promo-section{
+  padding-top: 0;
+}
 .bg-text-line {
   display: inline;
   background: #000;
